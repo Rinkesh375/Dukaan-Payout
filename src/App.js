@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      {/* Main container using Chakra UI's Flex component */}
+     
       <Flex w={"100%"} fontFamily={"Inter"}>
         {/* Sidebar component */}
         <Box w={"16%"} position={"fixed"} zIndex={3}>
