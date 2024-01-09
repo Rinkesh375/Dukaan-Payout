@@ -3,7 +3,7 @@
 Dukaan Payout – a meticulously crafted Figma-perfect pixel user interface that seamlessly presents dynamic payout data. Dive into the intricacies of your financial transactions with clarity and precision, effortlessly tracking payout details, refund amounts in process, pending amounts, and order statuses. Elevate your frontend experience with a visually stunning and user-friendly interface that transforms complex financial data into an intuitive and easily navigable showcase on your website.
 
 
-## live : - https://dukaan-payout-six.vercel.app/
+## live : - https://dukaan-iota-swart.vercel.app/
 
 
 ## Tech Stack
